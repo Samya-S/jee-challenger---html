@@ -1,7 +1,5 @@
-<p align="center" width="100%">
-    <img width="18%" src="./images/jcicon.jpg"> 
-</p>
-
-<h1 align="center" style="font-family: 'Jost', sans-serif;">JEE Challenger</h1>
+# jeechallenger v3
  
-A project - cum - small initiative to help the JEE aspirants with proper study materials to smoother their journey.
+A project - cum - small initiative to help the JEE aspirants with proper study materials to smoother their journey made using `HTML`, `CSS` and `JavaScript`.
+
+This repo is currently archived. Visit the main repository of JEE Challenger for all details: https://github.com/Samya-S/jeechallenger
