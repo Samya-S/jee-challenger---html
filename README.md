@@ -1,4 +1,4 @@
-# jeechallenger v3
+# jeechallenger v1.3
  
 A project - cum - small initiative to help the JEE aspirants with proper study materials to smoother their journey made using `HTML`, `CSS` and `JavaScript`.
 
